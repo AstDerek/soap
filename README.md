@@ -7,3 +7,6 @@ El pequeño proyecto hace una llamada a un servicio SOAP, y responde como una AP
 * `define('WSDL', '<url>');` URL del WSDL
 * `define('BASE_PATH', '<URI sin diagonal final>');` URI base, en caso que el proyecto sea servido desde un subdirectorio
 
+## Dependencias
+
+* AltoRouter: https://github.com/dannyvankooten/AltoRouter
